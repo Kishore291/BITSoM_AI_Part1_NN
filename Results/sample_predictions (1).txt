@@ -1,0 +1,6 @@
+--- Customer Churn Sample Predictions ---
+True Label: 0 | Predicted: 0
+True Label: 0 | Predicted: 0
+True Label: 0 | Predicted: 0
+True Label: 0 | Predicted: 0
+True Label: 0 | Predicted: 0
